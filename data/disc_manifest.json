@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "original_cue": "Space Adventure Cobra II - Densetsu no Otoko (Japan).cue",
+  "original_cue_sha256": "bd843ff3fe1543352c3a73612c1f255fb9dafbaa8b9cd3fbc868a393beffb9ba",
+  "tracks": [
+    {
+      "number": 1,
+      "type": "AUDIO",
+      "file": "Space Adventure Cobra II - Densetsu no Otoko (Japan) (Track 1).bin",
+      "index1": 0,
+      "file_bytes": 7916832,
+      "sha256": "53b50bd6addf7e50dbd8620ceda2603278e3d8fdec183498c11308ad5ac2cacc"
+    },
+    {
+      "number": 2,
+      "type": "MODE1/2352",
+      "file": "Space Adventure Cobra II - Densetsu no Otoko (Japan) (Track 2).bin",
+      "index0": 0,
+      "index1": 224,
+      "file_bytes": 161126112,
+      "sha256": "1d83319da45d2d4a8997a1bb9e0c542ad702474169940721913adf22647c2a60",
+      "iso_bytes": 139841536,
+      "iso_sha256": "33f2a4f4e6c2ddb61a338851f17a7b1abce2e5e83e5cb30ccff8fa4e5f744cbf"
+    },
+    {
+      "number": 3,
+      "type": "AUDIO",
+      "file": "Space Adventure Cobra II - Densetsu no Otoko (Japan) (Track 3).bin",
+      "index0": 0,
+      "index1": 150,
+      "file_bytes": 25730880,
+      "sha256": "23b95c11fe0ee194da31423b74b2406d891fdac336c4dd776f64a4d8f3b5f030"
+    },
+    {
+      "number": 4,
+      "type": "AUDIO",
+      "file": "Space Adventure Cobra II - Densetsu no Otoko (Japan) (Track 4).bin",
+      "index1": 0,
+      "file_bytes": 29585808,
+      "sha256": "7ca247ec1496ba3fdfa6aaec20a02a43c6c2e0e753c6a441ecd212a677572fa0"
+    },
+    {
+      "number": 5,
+      "type": "AUDIO",
+      "file": "Space Adventure Cobra II - Densetsu no Otoko (Japan) (Track 5).bin",
+      "index1": 0,
+      "file_bytes": 10965024,
+      "sha256": "b1735dc005e1dab59bc4aaa1cca0296032aa3fafe6c8efe8747337048b6a3807"
+    },
+    {
+      "number": 6,
+      "type": "AUDIO",
+      "file": "Space Adventure Cobra II - Densetsu no Otoko (Japan) (Track 6).bin",
+      "index1": 0,
+      "file_bytes": 6197520,
+      "sha256": "df82c8e9a986cd2e7b70cbf7db0d5db2f16eb61b3a197ed74b9333eafa13ceb6"
+    },
+    {
+      "number": 7,
+      "type": "AUDIO",
+      "file": "Space Adventure Cobra II - Densetsu no Otoko (Japan) (Track 7).bin",
+      "index1": 0,
+      "file_bytes": 10012464,
+      "sha256": "1f88db2bf25207e10d9299eb5ab7cdb15dea6daa1aff36fafe057fb7e667958c"
+    },
+    {
+      "number": 8,
+      "type": "AUDIO",
+      "file": "Space Adventure Cobra II - Densetsu no Otoko (Japan) (Track 8).bin",
+      "index1": 0,
+      "file_bytes": 5675376,
+      "sha256": "71bac2abc597de73d6dffa779278e9d6c92b880a50aa764af78c4658192de4b7"
+    },
+    {
+      "number": 9,
+      "type": "MODE1/2352",
+      "file": "Space Adventure Cobra II - Densetsu no Otoko (Japan) (Track 9).bin",
+      "index0": 0,
+      "index1": 224,
+      "file_bytes": 160775664,
+      "sha256": "b0972e76055771de3b3569c60225ef1715c1e891eda3fcb64b4d4543ce2a4d5f",
+      "iso_bytes": 139536384,
+      "iso_sha256": "07d24b0043f6a435763f3d9b2226dcb5cef16be15b00915a4e7d365171913a56"
+    }
+  ]
+}

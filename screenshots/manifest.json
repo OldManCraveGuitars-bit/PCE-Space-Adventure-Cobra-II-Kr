@@ -1,0 +1,42 @@
+[
+  {
+    "file": "screenshots/title.png",
+    "sha256": "308d1f8859ef28ff7d789366f2289c9c147bdba3030936e16c868e1e429af5fa",
+    "caption": "한글 타이틀 · Mednafen · 원래 타이틀에서 캡처",
+    "build_data_sha256": "5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67",
+    "actual_emulator_capture": true,
+    "image_edited": false
+  },
+  {
+    "file": "screenshots/opening.png",
+    "sha256": "2169c8135dc5b5d3a3929e7104833eca3799a851dfc1e135ed03ab22b2c916ac",
+    "caption": "오프닝 자막 · RetroArch / Beetle PCE FAST · 새 게임",
+    "build_data_sha256": "5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67",
+    "actual_emulator_capture": true,
+    "image_edited": false
+  },
+  {
+    "file": "screenshots/street-subtitle.png",
+    "sha256": "6239bbf2c9d3929933044e4e6ce371bbc550a89af18861563a3f36c15c925b24",
+    "caption": "술집 건물 앞 첫 자막 · RetroArch / Beetle PCE FAST · 새 게임",
+    "build_data_sha256": "5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67",
+    "actual_emulator_capture": true,
+    "image_edited": false
+  },
+  {
+    "file": "screenshots/first-menu.png",
+    "sha256": "62041826e6bdd1a55c5055f9a92d2e8b624a4fe55b391e160c357bb38bb79500",
+    "caption": "초반 조사·이동 선택지 · RetroArch / Beetle PCE FAST · 새 게임",
+    "build_data_sha256": "5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67",
+    "actual_emulator_capture": true,
+    "image_edited": false
+  },
+  {
+    "file": "screenshots/caption-check.png",
+    "sha256": "292de9c6ffa63b5293861d50aa10956f9dce97d2790092ff332dd5bec96989a4",
+    "caption": "문신 대사 수정 자막 · 원래 숨김 음원 메뉴에서 재생한 검수 화면",
+    "build_data_sha256": "5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67",
+    "actual_emulator_capture": true,
+    "image_edited": false
+  }
+]

@@ -1,0 +1,13 @@
+*.bin
+*.cue
+*.iso
+*.chd
+*.wav
+*.mcs
+*.srm
+*.sav
+*.state*
+*.exe
+*.zip
+__pycache__/
+*.pyc

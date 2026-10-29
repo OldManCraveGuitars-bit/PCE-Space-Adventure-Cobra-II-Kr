@@ -1,0 +1,22 @@
+{
+  "version": "v0.8",
+  "game": "Space Adventure Cobra II - Densetsu no Otoko (Japan)",
+  "state": "preview",
+  "build_data_sha256": "5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67",
+  "patch_sha256": "cf2ed9a4ce963f42926d2dd44fa0d176bc40bfe9774776339a2c1ec63efce598",
+  "executable_sha256": "7d6dc409fb67caa34775b129a0330fe635fc2afed4e0c2bf3507a3d55940f9c6",
+  "expected_output_SHA256": {
+    "cobra2-ko-experimental.cue": "f1d255511a5a39b3776424df63df80fc794086bbf13176ead18b8c4a1417c527",
+    "cobra2-ko-track01.bin": "53b50bd6addf7e50dbd8620ceda2603278e3d8fdec183498c11308ad5ac2cacc",
+    "cobra2-ko-track02.bin": "f269eb8f442b09a0384635598ee7e89c0cd5b7889f2e385ae5e301325be19c57",
+    "cobra2-ko-track03.bin": "23b95c11fe0ee194da31423b74b2406d891fdac336c4dd776f64a4d8f3b5f030",
+    "cobra2-ko-track04.bin": "7ca247ec1496ba3fdfa6aaec20a02a43c6c2e0e753c6a441ecd212a677572fa0",
+    "cobra2-ko-track05.bin": "b1735dc005e1dab59bc4aaa1cca0296032aa3fafe6c8efe8747337048b6a3807",
+    "cobra2-ko-track06.bin": "df82c8e9a986cd2e7b70cbf7db0d5db2f16eb61b3a197ed74b9333eafa13ceb6",
+    "cobra2-ko-track07.bin": "1f88db2bf25207e10d9299eb5ab7cdb15dea6daa1aff36fafe057fb7e667958c",
+    "cobra2-ko-track08.bin": "71bac2abc597de73d6dffa779278e9d6c92b880a50aa764af78c4658192de4b7",
+    "cobra2-ko-track09.bin": "c76123a6f642824eeed49bfda55627f0e6001130883a54aa189e5f7c4f213fe9"
+  },
+  "original_tracks_or_BIOS_included": false,
+  "whole_game_complete": false
+}
