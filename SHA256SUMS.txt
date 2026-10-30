@@ -1,4 +1,4 @@
-3c0cde661e4f493d42a7bceb098ef7d0b8a9a4b093a8fd4acb893d83776c7a79  PCE-Space-Adventure-Cobra-II-Kr-v0.8.zip
-32d6055d5ca4425180cf1339729bc1dbfadf6e6a451b70db34755c2f9f9c5e07  PCE-Space-Adventure-Cobra-II-Kr-v0.8-screenshots.zip
-07f11d043eb3fc3f384fb01aa0f1f5ca9da972cf519acaba0ec9aaabc8b68b16  HASHES.md
-8d03b235a56592774e7cd1252c43289a8d0ec977377b6c4a6fdef35883d0a830  release-manifest.json
+298d2fc9489fb60929a9957cc2edbd1e1e892cfc4e6de3bc884e12b82068bd49  PCE-Space-Adventure-Cobra-II-Kr-v0.81.zip
+0f75f983c30893c8db6a982c792c266f080cd9cc37edf010b01b38372748d4bb  PCE-Space-Adventure-Cobra-II-Kr-v0.81-screenshots.zip
+debf30bb1b24b943749181b7d3cd2c21a04b635e1d6ea70bc120e58033e79bfa  HASHES.md
+df39d283eeea6b5546fc62ed1bdb3741f94d46efba5417566466bc4fc148c12f  release-manifest.json

@@ -38,5 +38,37 @@
     "build_data_sha256": "5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67",
     "actual_emulator_capture": true,
     "image_edited": false
+  },
+  {
+    "file": "screenshots/laser-rifle-before.png",
+    "sha256": "43b316861a5987d2e8d54c809fa694c97155b0502107a54292500e5337b2165d",
+    "caption": "v0.8 수정 전: 레이저 라이플 설명이 일본어로 남아 있음",
+    "build_data_sha256": "5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67",
+    "actual_emulator_capture": true,
+    "image_edited": false
+  },
+  {
+    "file": "screenshots/laser-rifle.png",
+    "sha256": "ceac690427fc5f92a04617658f7dea47f8fe7f236907e52417520f9caff44b69",
+    "caption": "v0.81: 시드 착륙 후 총기 보기 → 레이저 라이플 설명",
+    "build_data_sha256": "3a7c711cd8695229247d46fc56ffee7e6dee8ad543f4b05771831ed9d206e5b4",
+    "actual_emulator_capture": true,
+    "image_edited": false
+  },
+  {
+    "file": "screenshots/lady-descent.png",
+    "sha256": "387399307d316dc65670b9ef12ad1596989318e7b6a63908148697065bc42f1f",
+    "caption": "v0.81: OK, 하강할게. 실제 정상 LOAD4 진행",
+    "build_data_sha256": "3a7c711cd8695229247d46fc56ffee7e6dee8ad543f4b05771831ed9d206e5b4",
+    "actual_emulator_capture": true,
+    "image_edited": false
+  },
+  {
+    "file": "screenshots/lady-arrival.png",
+    "sha256": "6bf8eb03ab63c535592596e564d61f7e9f79f00c76636696f8c86f427a74b34b",
+    "caption": "v0.81: 착륙 안내를 위로 옮겨 원래 노란 설명문과 겹침 해소",
+    "build_data_sha256": "3a7c711cd8695229247d46fc56ffee7e6dee8ad543f4b05771831ed9d206e5b4",
+    "actual_emulator_capture": true,
+    "image_edited": false
   }
 ]

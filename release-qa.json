@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "version": "v0.8",
-  "build_data_sha256": "5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67",
-  "created_utc": "2026-10-29T16:36:48.524348+00:00",
+  "version": "v0.81",
+  "build_data_sha256": "3a7c711cd8695229247d46fc56ffee7e6dee8ad543f4b05771831ed9d206e5b4",
+  "created_utc": "2026-10-30T01:41:15.883375+00:00",
   "actual_packaged_Windows_EXE_applied": true,
   "packaged_EXE_sha256": "7d6dc409fb67caa34775b129a0330fe635fc2afed4e0c2bf3507a3d55940f9c6",
   "packaged_manifest_relative_source_path": true,
@@ -10,14 +10,14 @@
   "actual_full_10_output_files_SHA256": {
     "cobra2-ko-experimental.cue": "f1d255511a5a39b3776424df63df80fc794086bbf13176ead18b8c4a1417c527",
     "cobra2-ko-track01.bin": "53b50bd6addf7e50dbd8620ceda2603278e3d8fdec183498c11308ad5ac2cacc",
-    "cobra2-ko-track02.bin": "f269eb8f442b09a0384635598ee7e89c0cd5b7889f2e385ae5e301325be19c57",
+    "cobra2-ko-track02.bin": "ba466096b5cc06cb874aef1e911f9f37df3d77e75afcf1f14868333bff9de2a0",
     "cobra2-ko-track03.bin": "23b95c11fe0ee194da31423b74b2406d891fdac336c4dd776f64a4d8f3b5f030",
     "cobra2-ko-track04.bin": "7ca247ec1496ba3fdfa6aaec20a02a43c6c2e0e753c6a441ecd212a677572fa0",
     "cobra2-ko-track05.bin": "b1735dc005e1dab59bc4aaa1cca0296032aa3fafe6c8efe8747337048b6a3807",
     "cobra2-ko-track06.bin": "df82c8e9a986cd2e7b70cbf7db0d5db2f16eb61b3a197ed74b9333eafa13ceb6",
     "cobra2-ko-track07.bin": "1f88db2bf25207e10d9299eb5ab7cdb15dea6daa1aff36fafe057fb7e667958c",
     "cobra2-ko-track08.bin": "71bac2abc597de73d6dffa779278e9d6c92b880a50aa764af78c4658192de4b7",
-    "cobra2-ko-track09.bin": "c76123a6f642824eeed49bfda55627f0e6001130883a54aa189e5f7c4f213fe9"
+    "cobra2-ko-track09.bin": "2f0b1ff0d97dee55ed641481af293f2a9c963aae64959c095068bf1ed5ada056"
   },
   "all_expected_hashes_match": true,
   "seven_audio_tracks_hardlinked": true,
@@ -27,5 +27,5 @@
   "existing_output_unchanged": true,
   "Unicode_output_path_tested": true,
   "launcher_PowerShell_AST_parsed": true,
-  "scope": "The v0.8 public EXE plus its final relative-path manifest and patch applied to the real supported original in a separate Unicode output folder. All ten files match the accepted game build. An overwrite attempt fails and leaves the outputs unchanged. The dialog script received syntax review; automated CUE selection was not simulated as human GUI usage."
+  "scope": "Final v0.81 EXE, relative manifest and exact patch applied to the supported original in the actual Korean preview delivery path. All10 output SHA match accepted3a7c. Existing output refusal tested. PowerShell selector parsed; dialog interaction is not claimed."
 }

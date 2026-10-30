@@ -1,8 +1,8 @@
-# SHA-256 — v0.8
+# SHA-256 — v0.81
 
-지원 원본은 `Space Adventure Cobra II - Densetsu no Otoko (Japan)`의 9개 BIN + CUE입니다. 아래 SHA-256은 파일 전체 기준입니다.
+파일 전체 SHA-256입니다. 논리 데이터 해시와 개별 BIN 해시는 서로 다릅니다.
 
-## 원본 CUE / BIN
+## 지원 일본판 원본
 
 | 파일 | 바이트 | SHA-256 |
 | --- | ---: | --- |
@@ -23,28 +23,19 @@
 | --- | --- |
 | `cobra2-ko-experimental.cue` | `f1d255511a5a39b3776424df63df80fc794086bbf13176ead18b8c4a1417c527` |
 | `cobra2-ko-track01.bin` | `53b50bd6addf7e50dbd8620ceda2603278e3d8fdec183498c11308ad5ac2cacc` |
-| `cobra2-ko-track02.bin` | `f269eb8f442b09a0384635598ee7e89c0cd5b7889f2e385ae5e301325be19c57` |
+| `cobra2-ko-track02.bin` | `ba466096b5cc06cb874aef1e911f9f37df3d77e75afcf1f14868333bff9de2a0` |
 | `cobra2-ko-track03.bin` | `23b95c11fe0ee194da31423b74b2406d891fdac336c4dd776f64a4d8f3b5f030` |
 | `cobra2-ko-track04.bin` | `7ca247ec1496ba3fdfa6aaec20a02a43c6c2e0e753c6a441ecd212a677572fa0` |
 | `cobra2-ko-track05.bin` | `b1735dc005e1dab59bc4aaa1cca0296032aa3fafe6c8efe8747337048b6a3807` |
 | `cobra2-ko-track06.bin` | `df82c8e9a986cd2e7b70cbf7db0d5db2f16eb61b3a197ed74b9333eafa13ceb6` |
 | `cobra2-ko-track07.bin` | `1f88db2bf25207e10d9299eb5ab7cdb15dea6daa1aff36fafe057fb7e667958c` |
 | `cobra2-ko-track08.bin` | `71bac2abc597de73d6dffa779278e9d6c92b880a50aa764af78c4658192de4b7` |
-| `cobra2-ko-track09.bin` | `c76123a6f642824eeed49bfda55627f0e6001130883a54aa189e5f7c4f213fe9` |
+| `cobra2-ko-track09.bin` | `2f0b1ff0d97dee55ed641481af293f2a9c963aae64959c095068bf1ed5ada056` |
 
-## 패치와 실행 파일
+## 패치와 도구
 
-| 파일 | SHA-256 |
-| --- | --- |
-| `build/cobra2-ko-experimental.c2kp` | `cf2ed9a4ce963f42926d2dd44fa0d176bc40bfe9774776339a2c1ec63efce598` |
-| `Cobra2PatchApplier.exe` | `7d6dc409fb67caa34775b129a0330fe635fc2afed4e0c2bf3507a3d55940f9c6` |
+- 논리 데이터: `3a7c711cd8695229247d46fc56ffee7e6dee8ad543f4b05771831ed9d206e5b4`
+- 차이 패치: `a4f366aa6818143c8c310c853071dc756d80f4e944a6031017882ac80f5de60c`
+- Windows EXE: `7d6dc409fb67caa34775b129a0330fe635fc2afed4e0c2bf3507a3d55940f9c6`
 
-## 논리 데이터 빌드
-
-`5657193d1082175d700d75fa61e20668c0921818f5bcc3a5f085091843f03e67`
-
-이 값은 데이터 트랙의 사용자 데이터(139,841,536바이트)에 대한 SHA-256입니다. 2,352바이트 섹터의 BIN 전체 해시와 다릅니다. 트랙 02/09 결과 해시는 위 표를 사용하세요.
-
-## 다운로드 검증
-
-릴리스의 `SHA256SUMS.txt`는 ZIP·EXE·차이 패치와 스크린샷 ZIP을 검사합니다. PowerShell 예: `Get-FileHash .\PCE-Space-Adventure-Cobra-II-Kr-v0.8.zip -Algorithm SHA256`.
+ZIP 해시는 릴리스의 SHA256SUMS.txt를 확인하세요. 원본 게임과 BIOS는 배포하지 않습니다.
